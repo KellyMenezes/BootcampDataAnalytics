@@ -1,2 +1,6 @@
-# BootcampDataAnalytics
-Bootcamp Data Analytics Programa de formação para mulheres na área de análise de dados, com duração de 6,5 meses, com mentoria de carreira e conexões com mercado de trabalho.
+# Data Analytics com Power BI
+Dados são o petróleo da tecnologia!
+
+Profissionais capazes de transformar grandes massas de dados em informações relevantes que ajudam na tomada de decisões nas empresas são muito valorizados e bem pagos por isso.
+
+Neste bootcamp, você participará de uma jornada completa para se tornar um analista de dados, dominando ferramentas e técnicas como Power BI, DAX, ETL, modelagem de dados inteligentes e IA. Além de aprender a extrair, manipular e contar histórias com esses dados em dashboards elegantes e visuais, você enfrentará desafios de código em Python para se preparar ainda mais para o mercado de trabalho.
